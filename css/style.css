@@ -26,6 +26,15 @@ nav ul li {
     margin-right: 20px;
 }
 
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
 strong {
     font-family: 'Lato', Verdana, Helvetica, sans-serif;
     font-size: 14px;
